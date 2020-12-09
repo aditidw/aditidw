@@ -1,8 +1,7 @@
 <div align="center">
   <h1>Hi, I am Aditi<img src="https://raw.githubusercontent.com/aditidw/aditidw/master/wave.gif" width="30px"/> <img src="https://raw.githubusercontent.com/aditidw/aditidw/master/developer.png" width="30px"/> 
-    <h1>
-      <img src="https://raw.githubusercontent.com/aditidw/aditidw/master/banner.gif"/>
     </h1>
+      <img src="https://raw.githubusercontent.com/aditidw/aditidw/master/banner.gif" />
     <p>
         <a href="https://www.linkedin.com/in/aditi1dwivedi" target="_blank"><img alt="LinkedIn"
                 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
