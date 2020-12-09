@@ -21,9 +21,11 @@
             <li>💻 I'm currently working on my building my skills</li>
             <li> 💬 Ask me about Flutter <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1533423362/4417/flutter.png?1533423362"
+                    width="16" />, Javascript <img align="center"
+                    src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296"
                     width="16" /></li>
             <li> 🎓 I'm currently learning React <img align="center"
-                    src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296"
+                    src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148"
                     width="16" /></li>
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
